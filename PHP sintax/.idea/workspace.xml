@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f96191a6-837e-4e64-9bd0-ad77a8174b6a" name="Default" comment="" />
+    <ignored path="PHP sintax.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="PHP sintax" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="test.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="0" selection-start="151" selection-end="151" vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="260">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_08_TimeUntilNewYear.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_08_TimeUntilNewYear.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="26" column="28" selection-start="1046" selection-end="1046" vertical-scroll-proportion="0.0" vertical-offset="520" max-vertical-offset="640">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_06_InformationTable.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_06_InformationTable.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="57" column="0" selection-start="1146" selection-end="1146" vertical-scroll-proportion="2.0955882" vertical-offset="0" max-vertical-offset="1260">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_07_GetFormData.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_07_GetFormData.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="26" column="4" selection-start="720" selection-end="720" vertical-scroll-proportion="0.0" vertical-offset="265" max-vertical-offset="640">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/PersonalInfo.php" />
+        <option value="$PROJECT_DIR$/_02_SumTwoNumbers.php" />
+        <option value="$PROJECT_DIR$/_04_NonRepeatingDigits.php" />
+        <option value="$PROJECT_DIR$/_05_LazySundays.php" />
+        <option value="$PROJECT_DIR$/_08_TimeUntilNewYear.php" />
+        <option value="$PROJECT_DIR$/_09_AwesomeCalendar.php" />
+        <option value="$PROJECT_DIR$/_01_PersonalInfo.php" />
+        <option value="$PROJECT_DIR$/_06_InformationTable.php" />
+        <option value="$PROJECT_DIR$/_03_DumpVariable.php" />
+        <option value="$PROJECT_DIR$/_07_GetFormData.php" />
+        <option value="$PROJECT_DIR$/test.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpServers">
+    <option name="servers">
+      <server host="localhost" name="PHP" />
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="27" />
+    <option name="y" value="1" />
+    <option name="width" value="1346" />
+    <option name="height" value="728" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PHP sintax" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="LayoutCode.rearrangeEntriesPHP" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../PHP Forms" />
+    <property name="options.lastSelected" value="Configurable.PHP" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="FullScreen" value="false" />
+  </component>
+  <component name="RunManager" selected="PHP Script._06_InformationTable.php">
+    <configuration default="false" name="_06_InformationTable.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/_06_InformationTable.php">
+      <RunnerSettings RunnerId="PhpRunner" />
+      <ConfigurationWrapper RunnerId="PhpRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="_07_GetFormData.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/_07_GetFormData.php">
+      <RunnerSettings RunnerId="PhpRunner" />
+      <ConfigurationWrapper RunnerId="PhpRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="_08_TimeUntilNewYear.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/_08_TimeUntilNewYear.php">
+      <RunnerSettings RunnerId="PhpRunner" />
+      <ConfigurationWrapper RunnerId="PhpRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="_03_DumpVariable.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/_03_DumpVariable.php">
+      <RunnerSettings RunnerId="PhpRunner" />
+      <ConfigurationWrapper RunnerId="PhpRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="test.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/test.php">
+      <RunnerSettings RunnerId="PhpRunner" />
+      <ConfigurationWrapper RunnerId="PhpRunner" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" browser="CHROME">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpRemoteDebugRunConfigurationType" factoryName="PHP Remote Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpHttpRequestRunConfigurationType" factoryName="PHP HTTP Request">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="AppEnginePhpConfigurationType" factoryName="App Engine for PHP">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="PHP Script._06_InformationTable.php" />
+      <item index="1" class="java.lang.String" itemvalue="PHP Script._07_GetFormData.php" />
+      <item index="2" class="java.lang.String" itemvalue="PHP Script._08_TimeUntilNewYear.php" />
+      <item index="3" class="java.lang.String" itemvalue="PHP Script._03_DumpVariable.php" />
+      <item index="4" class="java.lang.String" itemvalue="PHP Script.test.php" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="PHP Script._06_InformationTable.php" />
+        <item index="1" class="java.lang.String" itemvalue="PHP Script.test.php" />
+        <item index="2" class="java.lang.String" itemvalue="PHP Script._03_DumpVariable.php" />
+        <item index="3" class="java.lang.String" itemvalue="PHP Script._08_TimeUntilNewYear.php" />
+        <item index="4" class="java.lang.String" itemvalue="PHP Script._07_GetFormData.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f96191a6-837e-4e64-9bd0-ad77a8174b6a" name="Default" comment="" />
+      <created>1407935406819</created>
+      <updated>1407935406819</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="27" y="1" width="1346" height="728" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32998326" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26940992" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39732888" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39865997" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3283082" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="15" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="0" selection-start="151" selection-end="151" vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="260">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_08_TimeUntilNewYear.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="28" selection-start="1046" selection-end="1046" vertical-scroll-proportion="0.0" vertical-offset="520" max-vertical-offset="640">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_06_InformationTable.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="41" column="33" selection-start="843" selection-end="843" vertical-scroll-proportion="0.0" vertical-offset="914" max-vertical-offset="1260">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_07_GetFormData.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="4" selection-start="720" selection-end="720" vertical-scroll-proportion="0.0" vertical-offset="265" max-vertical-offset="640">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_01_PersonalInfo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="0" selection-start="146" selection-end="146" vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="272" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_02_SumTwoNumbers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="99" selection-start="193" selection-end="193" vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="238" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_03_DumpVariable.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="0" selection-start="106" selection-end="106" vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="323" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_04_NonRepeatingDigits.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="18" selection-start="100" selection-end="100" vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="391" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_09_AwesomeCalendar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="37" selection-start="224" selection-end="224" vertical-scroll-proportion="-0.79096043" vertical-offset="600" max-vertical-offset="2880" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_01_PersonalInfo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="2" selection-start="89" selection-end="89" vertical-scroll-proportion="-3.4482758" vertical-offset="0" max-vertical-offset="420" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_03_DumpVariable.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="9" selection-start="188" selection-end="188" vertical-scroll-proportion="0.43076923" vertical-offset="0" max-vertical-offset="380" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_02_SumTwoNumbers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="104" selection-start="167" selection-end="198" vertical-scroll-proportion="-3.4482758" vertical-offset="0" max-vertical-offset="280" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_04_NonRepeatingDigits.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="5" selection-start="121" selection-end="121" vertical-scroll-proportion="-4.827586" vertical-offset="0" max-vertical-offset="460" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_05_LazySundays.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="2" selection-start="236" selection-end="236" vertical-scroll-proportion="0.5202312" vertical-offset="0" max-vertical-offset="346" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_07_GetFormData.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="4" selection-start="720" selection-end="720" vertical-scroll-proportion="0.0" vertical-offset="265" max-vertical-offset="640">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="0" selection-start="151" selection-end="151" vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="260">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_08_TimeUntilNewYear.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="28" selection-start="1046" selection-end="1046" vertical-scroll-proportion="0.0" vertical-offset="520" max-vertical-offset="640">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_06_InformationTable.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="57" column="0" selection-start="1146" selection-end="1146" vertical-scroll-proportion="2.0955882" vertical-offset="0" max-vertical-offset="1260">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
